@@ -6,8 +6,6 @@ module.exports = {
 			href: '/favicon.ico'
 		}]
 	],
-	base: '/',
-	dest: 'public',
 	smoothScroll: true,
 	plugins: [
 		[
